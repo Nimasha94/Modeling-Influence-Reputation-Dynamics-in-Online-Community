@@ -4,7 +4,13 @@ Computational modelling of Social Systems project
 ### Modeling Influence and Reputation Dynamics in Online Communities with Algorithmic Moderation
 
 #### Description
-The notebook explores how user influence and reputation evolve in online communities under different algorithmic moderation strategies. Agent-based modeling is used to simulate interactions and measure social dynamics.
+This project simulates how reputation and influence evolve in an online discussion platform where users interact, post content, and receive feedback. It also models the role of algorithmic moderation (e.g., recommender systems, content filtering) in shaping user behavior, group formation, and the spread of content (both constructive and toxic).
+
+In the study, the following questions were checked;
+- How does algorithmic moderation affect the rise of influential users?
+-	Under what conditions do echo chambers form or break down?
+-	What moderation strategies reduce toxicity while preserving engagement?
+-	Can reputation-based systems prevent the spread of low-quality or harmful content?
 
 #### Files
 - `Modeling Influence and Reputation Dynamics in Online Communities.ipynb` – main analysis notebook
