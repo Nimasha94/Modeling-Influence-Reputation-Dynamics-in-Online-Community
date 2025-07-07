@@ -14,3 +14,9 @@ In the study, the following questions were checked;
 
 #### Files
 - `Modeling Influence and Reputation Dynamics in Online Communities.ipynb` – main analysis notebook
+
+#### Technologies Used
+
+- Python 3.10
+- Messa 3.1.5
+- Jupyter Notebook
